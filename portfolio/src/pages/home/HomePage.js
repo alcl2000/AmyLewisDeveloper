@@ -1,7 +1,13 @@
+import styles from "../../styles/HomePage.module.css"
+
 const HomePage = () => {
-    return( <div>
-        <h1>Hello World!</h1>
-    </div>)
+    return( 
+        <section className={styles.Main}>
+            <h1>
+                Hello
+            </h1>
+        </section>
+    )
 }
 
 export default HomePage
