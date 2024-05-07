@@ -1,6 +1,10 @@
 .Main{
     background-color: #FFFEF6;
 }
+.Spacing{
+    padding-top: 20px;
+    padding-left: 32px;
+}
 .Text{
     color: #91B88E;
 }
