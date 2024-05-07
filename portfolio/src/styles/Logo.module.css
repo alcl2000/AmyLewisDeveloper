@@ -1,0 +1,12 @@
+.LogoFont{
+    font-family: 'Playfair Display', serif;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 40px;
+}
+.LogoFont:active{
+    text-decoration: none;
+}
+.LogoFont:visited{
+    color: #91B88E ;
+}
